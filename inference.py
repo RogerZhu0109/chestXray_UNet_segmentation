@@ -43,3 +43,4 @@ plt.axis('off')
 
 plt.tight_layout()
 plt.show()
+print('horray!')
